@@ -1,0 +1,10 @@
+1023 Juan Perez jperez@fi.uba.ar 7
+4587 Ana Gomez agomez@fi.uba.ar 9
+7391 Carlos Lopez clopez@fi.uba.ar 6
+2645 Lucia Fernandez ifernandez@fi.uba.ar 8
+9812 Martin Rodriguez mrodriguez@fi.uba.ar 5
+3176 Sofia Martinez smartinez@fi.uba.ar 10
+8459 Diego Sanchez dsanchez@fi.uba.ar 4
+1928 Valentina Torres vtorres@fi.uba.ar 8
+6734 Nicolas Ramirez nramirez@fi.uba.ar 7
+5561 Camila Herrera cherrera@fi.uba.ar 9
